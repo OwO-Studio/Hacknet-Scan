@@ -1,0 +1,10 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<Computer id="PlayerComp" name="#PLAYERNAME#-PC" type="empty" security="2" ip="127.0.0.1" >
+
+  <portsForCrack val="5" />
+  <ports>22, 21, 25, 80, 1433</ports>
+  <proxy time="2" />
+  <firewall level="7" />
+  <trace time="155" />
+   
+</Computer>

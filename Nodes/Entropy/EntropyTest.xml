@@ -1,0 +1,18 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<Computer id="EntropyTest" name="Entropy测试服务器" type="4" security="1" >
+
+  <portsForCrack val="1" />
+  <ports>22, 21, 25</ports>
+  <trace time="40" />
+  <proxy time="0.3" />
+   
+   <admin type="basic" resetPassword="false" isSuper="false"/>
+   
+   <file path="home" name="Entropy_Induction_Test">
+祝贺你, 
+下载此文件以完成您的入组测试. 
+Entropy马上就会联系你.</file>
+   
+   <file path="bin" name="e_admins_are_lazy.txt">终于整理了</file>
+   
+</Computer>

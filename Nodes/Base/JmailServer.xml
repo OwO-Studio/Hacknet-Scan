@@ -1,0 +1,15 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<Computer id="JMail" name="JMail" type="empty" security="4">
+
+  <portsForCrack val="4" />
+  <ports>22, 21, 25, 1433</ports>
+  <proxy time="1.5" />
+  <firewall level="6" />
+  <trace time="150" />
+   
+   <account username="#PLAYERNAME#" password="reptile" type="mail" />
+   
+   <mailServer name="JMail" color="125,250,6" generateJunk="true">
+   </mailServer>  
+  
+</Computer>

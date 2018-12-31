@@ -1,0 +1,23 @@
+﻿<?xml version = "1.0" encoding = "UTF-8" ?>
+<mission id="0.189t">
+  <goals>
+  </goals>
+  <nextMission>NONE</nextMission>
+  <posting title="0.0189t更新">
+0.189t本次更新:
+一.加入:
+1.更新日志服务器.
+二.更改:
+1.换了之前全部的音乐.
+三:BUG修复:
+1.修复了有时不能完成下载资源的任务, 大概吧...
+  </posting>
+  <email>
+    <sender>HackNet</sender>
+    <subject>ERROR</subject>
+    <body>未知错误
+    </body>
+    <attachments>
+    </attachments>
+  </email>
+</mission>

@@ -1,0 +1,27 @@
+﻿<?xml version = "1.0" encoding = "UTF-8" ?>
+<mission id="News8">
+  <goals>
+  </goals>
+  <nextMission>NONE</nextMission>
+  <posting title="EnTech的HackNet是什么?">
+你的数据有风险吗?
+
+最近有一个黑客组织非常活跃, 它致力于损害各种形式的社区媒体. 
+这个新闻我们讲过了, 对吧.
+这个黑客组织终于在近日被警方抓获.
+不过他们使用的系统竟是EnTech发都没有发布的HackNet!
+HackNet不仅是个操作系统, 他甚至内置破解软件!
+专家也同时说HackNet一旦发布将会引发极大的安全问题
+我们可以安装EnSec. 但是你别忘了这2个东西都是EnTech开发的啊!
+HackNet可以运行Win32程序, 意味着Windows的破解程序可以转到HackNet上!
+信息安全公司也接连倒闭, 就唯独EnTech不倒, 这意味着什么?
+  </posting>
+  <email>
+    <sender>HackNet</sender>
+    <subject>ERROR</subject>
+    <body>未知错误
+    </body>
+    <attachments>
+    </attachments>
+  </email>
+</mission>

@@ -1,0 +1,18 @@
+config PlayerComp Hacker1 0.0 $#%#$
+connect $#%#$
+delay 8 $#%#$
+openPort 22 $#%#$
+delay 3 $#%#$
+openPort 80 $#%#$
+delay 1 $#%#$
+openPort 21 $#%#$
+delay 12 $#%#$
+openPort 25 $#%#$
+delay 1 $#%#$
+openPort 1433 $#%#$
+delay 3 $#%#$
+delete /sys x-server.sys $#%#$
+delay 1 $#%#$
+forkbomb $#%#$
+delay 1 $#%#$
+disconnect $#%#$

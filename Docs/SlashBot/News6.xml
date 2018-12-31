@@ -1,0 +1,23 @@
+﻿<?xml version = "1.0" encoding = "UTF-8" ?>
+<mission id="News6">
+  <goals>
+  </goals>
+  <nextMission>NONE</nextMission>
+  <posting title="Entropy 组织黑了我们的新闻网?">
+近日, 我们的网站被一个不明黑客攻击, 导致了网站瘫痪.
+我们估计就是 Entropy 组织干的!
+一定是 Entropy 组织收留的那个臭名昭著的骇客干的!
+
+看来 Entropy 组织早就转型为骇客了 大家都得注意点 他们甚至纂改了我们的文章!
+Entropy组织将来会面临严峻的法律问题. Entropy应受到谴责.
+记者 :  Tom Wilkins
+  </posting>
+  <email>
+    <sender>HackNet</sender>
+    <subject>ERROR</subject>
+    <body>未知错误
+    </body>
+    <attachments>
+    </attachments>
+  </email>
+</mission>

@@ -1,0 +1,9 @@
+<ConditionalActions>
+  
+  <Instantly>
+    
+    <LaunchHackScript Filepath="HackerScripts/liuyHack.txt" DelayHost="Daemon" Delay="25.0" SourceComp="Hacker1" TargetComp="PlayerComp" RequireLogsOnSource="true" RequireSourceIntact="false"/>
+    
+  </Instantly>
+
+</ConditionalActions>

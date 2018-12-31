@@ -1,0 +1,12 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<Computer id="Slash-BotNews" name="Slash-Bot 新闻网" security="1" type="4">
+
+  <portsForCrack val="1" />
+  <ports>22, 21, 25, 80</ports>
+  <trace time="40" />
+  <proxy time="0.5" />
+  <admin type="basic" resetPassword="false" isSuper="false"/>
+  
+  <variableMissionListingServer name="Shash-Bot News" iconPath="Misc/SlashBot.png" articleFolderPath="Docs/SlashBot" color="120,200,2" assigner="false" public="true" title="Shash-Bot News"/>
+  
+</Computer>

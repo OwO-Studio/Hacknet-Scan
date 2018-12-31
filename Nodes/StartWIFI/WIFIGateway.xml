@@ -1,0 +1,22 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<Computer id="StartWIFIGateway" name="Tenda-3FASB网关" type="3" icon="chip" ip="192.168.0.1" >
+
+  <portsForCrack val="0" />
+  <ports>22, 21, 80, 25, 1433</ports>
+  <trace time="2.0" />
+  <proxy time="0.5" />
+  <admin type="basic" resetPassword="false" isSuper="false"/>
+  <adminPass pass="admin" />
+  
+   <dlink target="StartWIFIMaster" />
+   <dlink target="playercomp" />
+   
+   <file path="sys" name="x-server.sys">#PURPLE_THEME#</file>
+   
+   <file path="log" name="@11907_Connection:_from_122.176.239.124">@11907 Connection: from 122.176.239.124</file>
+   
+   <eosDevice name="Deliliah的iphone 4S" id="iphome1" icon="ePhone2" empty="4" passOverride="alpine">
+	 <dlink target="StartWIFIGateway" />
+     <file path="bin" name="Clock.exe">#CLOCK_PROGRAM#</file>
+   </eosDevice>
+</Computer>

@@ -1,0 +1,27 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<mission id="0.18993t">
+  <goals>
+  </goals>
+  <nextMission>NONE</nextMission>
+  <posting title="0.18993t更新">
+0.18993t本次更新:
+一.加入:
+无
+二.更改:
+1.更加防脑残
+2.把欢迎玩家的邮件的发件人从Side_Open_Lk(该扩展的原名)改成Scan(这可是Scan啊)
+三:BUG修复:
+无
+四:已知BUG:
+1..Entropy任务数据库问题
+...?
+  </posting>
+  <email>
+    <sender>HackNet</sender>
+    <subject>ERROR</subject>
+    <body>未知错误
+    </body>
+    <attachments>
+    </attachments>
+  </email>
+</mission>

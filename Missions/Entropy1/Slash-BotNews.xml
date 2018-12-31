@@ -1,0 +1,31 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<mission id="Slash-BotNews">
+  <goals>
+    <goal type="FileDeletion" target="Slash-BotNews" file="config.sys" path="MsgBoard" />
+  </goals>
+  <!-- 
+  Add your mission start and end items here
+  missionStart val="0">loadConditionalActions:Actions/TestActions.xml</missionStart>
+  missionEnd val="1">addRank</missionEnd> 
+  -->
+  <nextMission>Missions/Entropy1/DownloadResource.xml</nextMission>
+  <!-- 
+  <posting title="startingMission">This would be the post on a message board if it was on them.</posting>
+  -->
+  <email>
+    <sender>Entropy</sender>
+    <subject>考试通过</subject>
+    <body>你好, #PLAYERNAME#, 
+
+首先, 祝贺你成功通过了Entropy黑客组织的考试!
+不过... 在你正式加入我们组织之前, 我们必须对你的能力进行进一步的考验.
+几个月前, 有一家新闻网站摆明了同我们的对立立场. 我们让一个很有天赋的黑客临时瘫痪了他们的服务器. 但是他们修复服务器后更加不可描述了. 我们希望你能再瘫痪他们的服务器.
+当然, 不仅仅是删除文章, 还要搞垮他们的程序.
+PS: 好一个Oppo的接收器 看来他们的一些东西修复失败了 LOL
+-Tex
+</body>
+    <attachments>
+      <link comp="Slash-BotNews" />
+    </attachments>
+  </email>
+</mission>

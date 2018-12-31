@@ -1,0 +1,21 @@
+﻿<?xml version = "1.0" encoding = "UTF-8" ?>
+<mission id="News1">
+  <goals>
+  </goals>
+  <nextMission>NONE</nextMission>
+  <posting title="Entropy 组织要转型为骇客了?">
+Entropy 组织要转型为骇客了?
+
+报道称, 组织"Entropy"收留了一个臭名昭著的骇客, 为他提供了工作. 我们不能确认这个消息的真实性. 如果消息属实, 那么Entropy组织将来会面临严峻的法律问题. 
+在我看来, 这样的举动会破坏现在的网络环境, 遏制那些黑客组织的发展. Entropy应受到谴责. 
+记者 :  Tom Wilkins
+  </posting>
+  <email>
+    <sender>HackNet</sender>
+    <subject>ERROR</subject>
+    <body>未知错误
+    </body>
+    <attachments>
+    </attachments>
+  </email>
+</mission>

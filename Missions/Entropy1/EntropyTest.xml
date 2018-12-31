@@ -1,0 +1,24 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<mission id="EntropyTest" activeCheck="true">
+  <goals>
+    <goal type="FileDownload" target="EntropyTest" file="Entropy_Induction_Test" path="home" />
+  </goals>
+  <!-- 
+  Add your mission start and end items here
+  missionStart val="0">loadConditionalActions:Actions/TestActions.xml</missionStart>
+  missionEnd val="1">addRank</missionEnd> 
+  -->
+  <nextMission IsSilent="true">Missions/Entropy1/EntropyTestDelayer.xml</nextMission>
+  <!-- 
+  <posting title="startingMission">This would be the post on a message board if it was on them.</posting>
+  -->
+  <email>
+    <sender>HackNet</sender>
+    <subject>ERROR</subject>
+    <body>未知错误
+</body>
+    <attachments>
+      <!-- Add attachments like links and notes here -->
+    </attachments>
+  </email>
+</mission>

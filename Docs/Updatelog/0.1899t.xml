@@ -1,0 +1,30 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<mission id="0.1899t">
+  <goals>
+  </goals>
+  <nextMission>NONE</nextMission>
+  <posting title="0.1899t更新">
+0.1899t本次更新:
+一.加入:
+1.新加两个新闻(滑稽)
+二.更改:
+1.Wifi网关不能拿到x-server.sys了
+2.困难模式变得真正困难
+...
+三:BUG修复:
+1.修复了有时不能完成下载资源的任务
+2.修复了liuy不攻击玩家的Bug
+...
+四:已知BUG:
+1..Entropy任务数据库问题
+...?
+  </posting>
+  <email>
+    <sender>HackNet</sender>
+    <subject>ERROR</subject>
+    <body>未知错误
+    </body>
+    <attachments>
+    </attachments>
+  </email>
+</mission>

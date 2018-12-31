@@ -1,0 +1,9 @@
+<ConditionalActions>
+  
+  <Instantly>
+    
+	<RunFunction FunctionName="setHubServer:EntropyMission" />
+    
+  </Instantly>
+
+</ConditionalActions>

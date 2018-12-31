@@ -1,0 +1,9 @@
+<ConditionalActions>
+  
+  <Instantly>
+   
+    <DeleteFile TargetComp="StartWIFIGateway" FilePath="sys" FileName="x-server.sys" DelayHost="Daemon" Delay="5.5"/>
+	
+  </Instantly>
+
+</ConditionalActions>

@@ -1,0 +1,6 @@
+<CustomFaction name="Starting Faction" id="startingfac" playerVal="0">
+  
+  <Action>
+  </Action>
+
+</CustomFaction>

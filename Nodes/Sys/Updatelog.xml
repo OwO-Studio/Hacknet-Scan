@@ -1,0 +1,10 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<Computer id="Updatelog" name="更新日志" type="empty">
+
+  <portsForCrack val="103" />
+  <ports>80</ports>
+  <trace time="-1" />
+
+   <variableMissionListingServer name="更新日志" iconPath="Logo.png" articleFolderPath="Docs/Updatelog" color="148,4,255" assigner="false" public="true" title="更新日志"/>
+  
+</Computer>

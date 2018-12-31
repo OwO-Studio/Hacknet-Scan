@@ -1,0 +1,21 @@
+﻿<?xml version = "1.0" encoding = "UTF-8" ?>
+<mission id="News3">
+  <goals>
+  </goals>
+  <nextMission>NONE</nextMission>
+  <posting title="巨硬公司发布新手机 : 要多烂有多烂">
+巨硬公司发布新手机 : 要多烂有多烂
+
+巨硬公司的开发脚步根本停不下来. 我们的员工得到一台最新的样品机"Waterfall", 然而经过测试, 已经发现了很多的安全漏洞. 
+手机用户已经习惯于这个无处不在的科技巨头的操作系统了, 而这些安全漏洞使得安装在手机上的APP都可以控制手机, 漏洞会让你的信息在未加密的情况下发送到网络上任何一个位置. 
+巨硬公司的手机"Waterfall"本在两星期后发售, 由于漏洞的存在, 专家声称日期延后一个月. 更多信息, 请关注我们的空间. 
+  </posting>
+  <email>
+    <sender>HackNet</sender>
+    <subject>ERROR</subject>
+    <body>未知错误
+    </body>
+    <attachments>
+    </attachments>
+  </email>
+</mission>

@@ -1,0 +1,14 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<Computer id="Hacker1" name="liuyi585851 - 基地网关" type="4" security="1" ip="122.176.239.124" >
+
+  <portsForCrack val="0" />
+  <ports>22, 21, 25, 80</ports>
+  <trace time="10" />
+  <admin type="basic" resetPassword="false" isSuper="false"/>
+   
+   <dlink target="EntropyTest" />
+   <dlink target="StartWIFIGateway" />
+   
+   <file path="bin" name="FTPBounce.exe">#FTP_CRACK#</file>
+  
+</Computer>

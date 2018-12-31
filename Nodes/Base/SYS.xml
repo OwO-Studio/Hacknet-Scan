@@ -1,0 +1,14 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<Computer id="Daemon" name="EXTENSIONSSYSDaemon" type="empty" security="4" ip="EXTENSIONSSYSDaemon" icon="chip" >
+
+  <portsForCrack val="9999999" />
+  <ports>22</ports>
+  <trace time="-1" />
+  
+  <adminPass pass="SYS" />
+
+  <IRCDaemon themeColor="67,204,148" name="Daemon" needsLogin="false">
+    <user name="Daemon" color="0,209,232"/>
+    <post user="Daemon">A Daemon</post>
+  </IRCDaemon>
+</Computer>

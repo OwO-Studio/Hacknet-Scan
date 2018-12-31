@@ -1,0 +1,25 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<mission id="EntropyTestDelayer" activeCheck="true">
+  <goals>
+    <goal type="delay" time="6.2"/>
+  </goals>
+  <!-- 
+  Add your mission start and end items here
+  missionStart val="0">loadConditionalActions:Actions/TestActions.xml</missionStart>
+  missionEnd val="1">addRank</missionEnd> 
+  -->
+  <missionEnd>loadConditionalActions:Actions/liuyHackActions.xml</missionEnd>
+  <nextMission IsSilent="true">Missions/Entropy1/Slash-BotNews.xml</nextMission>
+  <!-- 
+  <posting title="startingMission">This would be the post on a message board if it was on them.</posting>
+  -->
+  <email>
+    <sender>Entropy Mailbot</sender>
+    <subject>待处理请求</subject>
+    <body>邮件服务器为你暂挂了一个请求. 
+请稍等.</body>
+    <attachments>
+      <!-- Add attachments like links and notes here -->
+    </attachments>
+  </email>
+</mission>

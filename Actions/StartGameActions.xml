@@ -1,0 +1,11 @@
+<ConditionalActions>
+  
+  <Instantly>
+    
+	<SwitchToTheme ThemePathOrName="TerminalOnlyBlack" FlickerInDuration="1.5" DelayHost="Daemon" Delay="10.2" />
+	
+	<AddAsset FileName="@1012_Connection_Routed_127.0.0.1_To_192.168.0.1" FileContents="@1012 Connection Routed 127.0.0.1 To 192.168.0.1" TargetComp="PlayerComp" TargetFolderpath="log" />
+    
+  </Instantly>
+
+</ConditionalActions>

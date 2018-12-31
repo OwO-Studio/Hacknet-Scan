@@ -1,0 +1,34 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<mission id="WelingMission">
+  <goals>
+    <goal type="getstring" target="Start" />
+  </goals>
+  <missionEnd>loadConditionalActions:Actions/StartGameActions.xml</missionEnd>
+  <!-- 
+  Add your mission start and end items here
+  missionStart val="0">loadConditionalActions:Actions/TestActions.xml</missionStart>
+  missionEnd val="1">addRank</missionEnd> 
+  -->
+  <nextMission>Missions/Entropy1/EntropyTest.xml</nextMission>
+  <!-- 
+  <posting title="startingMission">This would be the post on a message board if it was on them.</posting>
+  -->
+  <email>
+    <sender>Scan</sender>
+    <subject>开始游戏</subject>
+    <body>你好,请按回复, 点+, 再输入start就可以开始游戏.
+PS:开始游戏时你的主题10秒后会转换为像原版被Naix黑时的主题
+PPS:作者QQ1070303690
+PPPS:作者QQ小号2506405864(不怎么上)
+</body>
+    <attachments>
+      <!-- Add attachments like links and notes here -->
+	  <note title="Help1">1.开始游戏时你的主题10秒后会转换为像原版被Naix黑时的主题
+2.WIFI的密码(不是连接WIFI的密码 是你连上WIFI访问192.168.1(0).1的密码)通常是什么?密码在Help2里.
+      </note>
+	  <note title="Help2">(ForkBomb)AdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdminAdmin(ForkBomb)
+哦对了 忘记告诉你 这是一个ForkBomb 密码在这 是Admin
+      </note>
+    </attachments>
+  </email>
+</mission>

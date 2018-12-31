@@ -1,0 +1,16 @@
+HackNetInstall
+Load Data...
+Data Collection...
+Format Disk...
+Partition / - 387MB - Ext3 - Logical
+Partition /SYS - 512MB - Ext3 - Logical
+Partition /HOME - 1GB - Ext3 - Logical
+Partition /BIN - 512MB - Ext3 - Logical
+Partition /LOG - 125MB - Ext3 - Logical
+Write to MBR...
+Create File:SYS\bootcfg.dll, netcfgx.dll, os-config.sys, x-server.sys
+Create File:BIN\SecurityTracer.exe
+Write to \SYS\bootcfg.dll, netcfgx.dll, os-config.sys, x-server.sys
+ERROR:0x000010 No files available
+Write to \BIN\SecurityTracer.exe
+Boot...

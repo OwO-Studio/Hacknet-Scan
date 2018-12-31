@@ -1,0 +1,20 @@
+﻿<?xml version = "1.0" encoding = "UTF-8" ?>
+<mission id="News7">
+  <goals>
+  </goals>
+  <nextMission>NONE</nextMission>
+  <posting title="EnTech的新东西?">
+近日, EnTech发布了EnSec Invioability. 他们表示EnSec Invioability项目是一款操作系统层面上的防护软件, 只能允许授权的操作和管理员命令通过, 它能够提供独一无二的系统安全级别, 防止所有常规(或非常规)的渗透和入侵. 
+它是一个完全向用户透明的系统(某些紧急更新情况会由外部人员控制, Entech公司会提供相关技术支持), 并且能够给敏感和机密的系统提供完全的安全防护. 
+同时, Hacknet项目可以寻找并展示目前安全系统中的漏洞. 当EnSec和Hacknet搭配起来后, 将会开启世界信息安全时代的新篇章. 
+但是他们的HackNet却没有正式发布, 这是为什么呢?
+  </posting>
+  <email>
+    <sender>HackNet</sender>
+    <subject>ERROR</subject>
+    <body>未知错误
+    </body>
+    <attachments>
+    </attachments>
+  </email>
+</mission>

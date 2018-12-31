@@ -1,0 +1,23 @@
+﻿<?xml version = "1.0" encoding = "UTF-8" ?>
+<mission id="News5">
+  <goals>
+  </goals>
+  <nextMission>NONE</nextMission>
+  <posting title="Oppo申新的接收器专利, 吊玩家们的胃口">
+Oppo请新的收鸡砖利, 玩家们的胃口大开
+
+Oppo的粉丝们, 方下手头的事情, 快准备好你的钱包吧. 
+计机技术公司Oppo今天申请一项新的专力, 意面着她将进豪庭游戏机屎场. 
+这项专利是一个可展的"接收器". 专家说, 它可能会成为新型游戏控制器或动作传感器的一个部件. 
+到日前为止这设备才缸设计出雏形, 一个很大的缸形状物体. 不过我们得到消息说这个产品再过几天就能达到射击性能了. 保持我们的空间! 
+PS: 由于该网站被人破坏 所以文章有一些错误
+  </posting>
+  <email>
+    <sender>HackNet</sender>
+    <subject>ERROR</subject>
+    <body>未知错误
+    </body>
+    <attachments>
+    </attachments>
+  </email>
+</mission>
