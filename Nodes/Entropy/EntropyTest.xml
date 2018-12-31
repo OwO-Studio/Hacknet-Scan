@@ -1,5 +1,5 @@
 <?xml version = "1.0" encoding = "UTF-8" ?>
-<Computer id="EntropyTest" name="Entropy测试服务器" type="4" security="1" >
+<Computer id="EntropyTest" name="Entropy测试服务器" type="4" security="1" ip="192.168.1.119" >
 
   <portsForCrack val="1" />
   <ports>22, 21, 25</ports>
