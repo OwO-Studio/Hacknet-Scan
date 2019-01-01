@@ -3,6 +3,7 @@
   <Instantly>
     
 	<RunFunction FunctionName="setHubServer:EntropyMission" />
+  <RunFunction FunctionName="RunFunction:entropy"/>	
     
   </Instantly>
 
