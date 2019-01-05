@@ -1,0 +1,18 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<mission id="0.19002-d">
+  <goals>
+  </goals>
+  <nextMission>NONE</nextMission>
+  <posting title="0.19002-daily更新">
+0.19002-daily本次更新:
+无
+  </posting>
+  <email>
+    <sender>HackNet</sender>
+    <subject>ERROR</subject>
+    <body>未知错误
+    </body>
+    <attachments>
+    </attachments>
+  </email>
+</mission>
