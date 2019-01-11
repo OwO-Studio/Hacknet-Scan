@@ -1,0 +1,19 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<mission id="0.2-DBC">
+  <goals>
+  </goals>
+  <nextMission>NONE</nextMission>
+  <posting title="Developers Beta Candidate 2更新">
+Developers Beta Candidate 2本次更新:
+修复了一些Bugy
+Fix Bugs
+  </posting>
+  <email>
+    <sender>HackNet</sender>
+    <subject>ERROR</subject>
+    <body>未知错误
+    </body>
+    <attachments>
+    </attachments>
+  </email>
+</mission>
